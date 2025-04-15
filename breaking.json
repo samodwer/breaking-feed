@@ -1,4 +1,18 @@
 {
-  "text": "🚨 عاجل: مصادر تؤكد وقوع اشتباكات عنيفة في محيط سجن عدرا المركزي",
-  "timestamp": 1744549876543
+  "name": "breaking.json",
+  "path": "breaking.json",
+  "sha": "261d95d0385ff2505af4f86427cda77680f0064c",
+  "size": 163,
+  "url": "https://api.github.com/repos/samodwer/breaking-feed/contents/breaking.json?ref=main",
+  "html_url": "https://github.com/samodwer/breaking-feed/blob/main/breaking.json",
+  "git_url": "https://api.github.com/repos/samodwer/breaking-feed/git/blobs/261d95d0385ff2505af4f86427cda77680f0064c",
+  "download_url": "https://raw.githubusercontent.com/samodwer/breaking-feed/main/breaking.json",
+  "type": "file",
+  "content": "ewogICJ0ZXh0IjogIvCfmqgg2LnYp9is2YQ6INmF2LXYp9iv2LEg2KrYpNmD\n2K8g2YjZgtmI2Lkg2KfYtNiq2KjYp9mD2KfYqiDYudmG2YrZgdipINmB2Yog\n2YXYrdmK2Lcg2LPYrNmGINi52K/YsdinINin2YTZhdix2YPYstmKIiwKICAi\ndGltZXN0YW1wIjogMTc0NDU0OTg3NjU0Mwp9Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/samodwer/breaking-feed/contents/breaking.json?ref=main",
+    "git": "https://api.github.com/repos/samodwer/breaking-feed/git/blobs/261d95d0385ff2505af4f86427cda77680f0064c",
+    "html": "https://github.com/samodwer/breaking-feed/blob/main/breaking.json"
+  }
 }
